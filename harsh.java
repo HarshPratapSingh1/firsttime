@@ -4,7 +4,7 @@ class harsh
   {
    int a = 9;
    int x = 99;
-   long result = a+x;
+   result = a+x;
    system.out.println(result);
   }
 
